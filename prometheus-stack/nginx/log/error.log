@@ -1,0 +1,35 @@
+2024/11/16 13:12:09 [notice] 1#1: using the "epoll" event method
+2024/11/16 13:12:09 [notice] 1#1: nginx/1.27.2
+2024/11/16 13:12:09 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/11/16 13:12:09 [notice] 1#1: OS: Linux 6.8.0-1016-aws
+2024/11/16 13:12:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/11/16 13:12:09 [notice] 1#1: start worker processes
+2024/11/16 13:12:09 [notice] 1#1: start worker process 20
+2024/11/16 13:35:39 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/11/16 13:35:39 [notice] 20#20: gracefully shutting down
+2024/11/16 13:35:39 [notice] 20#20: exiting
+2024/11/16 13:35:39 [notice] 20#20: exit
+2024/11/16 13:35:39 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2024/11/16 13:35:39 [notice] 1#1: worker process 20 exited with code 0
+2024/11/16 13:35:39 [notice] 1#1: exit
+2024/11/16 13:37:52 [notice] 1#1: using the "epoll" event method
+2024/11/16 13:37:52 [notice] 1#1: nginx/1.27.2
+2024/11/16 13:37:52 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/11/16 13:37:52 [notice] 1#1: OS: Linux 6.8.0-1016-aws
+2024/11/16 13:37:52 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/11/16 13:37:52 [notice] 1#1: start worker processes
+2024/11/16 13:37:52 [notice] 1#1: start worker process 20
+2024/11/16 13:43:26 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/11/16 13:43:26 [notice] 20#20: gracefully shutting down
+2024/11/16 13:43:26 [notice] 20#20: exiting
+2024/11/16 13:43:26 [notice] 20#20: exit
+2024/11/16 13:43:26 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2024/11/16 13:43:26 [notice] 1#1: worker process 20 exited with code 0
+2024/11/16 13:43:26 [notice] 1#1: exit
+2024/11/16 13:43:40 [notice] 1#1: using the "epoll" event method
+2024/11/16 13:43:40 [notice] 1#1: nginx/1.27.2
+2024/11/16 13:43:40 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/11/16 13:43:40 [notice] 1#1: OS: Linux 6.8.0-1016-aws
+2024/11/16 13:43:40 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/11/16 13:43:40 [notice] 1#1: start worker processes
+2024/11/16 13:43:40 [notice] 1#1: start worker process 20
